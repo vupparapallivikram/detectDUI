@@ -1,0 +1,36 @@
+DetectDUI An In Car Detection System for Drink Driving and BACs
+
+Drink driving detection, mobile sensing, inertial measurement unit.
+
+
+DetectDUI
+
+
+detectdui
+
+
+
+drink_driving_detection
+
+
+idnumber
+City_Location
+day
+Sex
+Age
+Time
+Day_of_week
+Educational_level
+Vehicle_driver_relation
+Driving_experience
+Type_of_vehicle
+Owner_of_vehicle
+Service_year_of_vehicle
+Lanes_or_Medians
+Road_allignment
+Road_surface_type
+Vehicle_movement
+Prediction
+
+
+
